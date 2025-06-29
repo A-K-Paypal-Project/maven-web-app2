@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('Hello'){
       steps{
-        sh "echo Welcome to ENE cloudTech Solutions"
+        sh "echo Welcome to facebook.com"
       }
     }
     stage('sleep'){
