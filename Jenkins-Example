@@ -15,6 +15,7 @@ pipeline{
       steps{
         sh "echo welcome to ENE cloud tech Job3"
         sh "echo welcome to ENE cloud tech Job4"
+        sh "echo welcome to ENE cloud tech Job5"
       }
     }
   }
